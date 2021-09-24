@@ -766,8 +766,8 @@
   <object id="65" type="collision" x="38.6667" y="558.667" width="18.6667" height="14"/>
   <object id="66" type="collision" x="495.333" y="744.667" width="32" height="18"/>
   <object id="67" type="collision" x="536" y="750.667" width="15.3333" height="14"/>
-  <object id="69" name="enter_house" x="296.667" y="352.667" width="17.3333" height="24.6667"/>
-  <object id="71" name="enter_house_exit" x="305.333" y="384">
+  <object id="69" name="enter_house1" x="296.667" y="352.667" width="17.3333" height="24.6667"/>
+  <object id="71" name="house1_exit" x="295.333" y="370.667">
    <point/>
   </object>
  </objectgroup>
